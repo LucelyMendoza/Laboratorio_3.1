@@ -1,0 +1,13 @@
+DEFINE
+contador:Integer;
+promedio:Float;
+suma, respuesta:Float;
+FINDEFINE
+
+write "prueba";
+contador: 32767;
+suma: 04;
+contador= contador+1;
+
+respuesta=contador+suma;
+write "fin  de la prueba";
